@@ -1,0 +1,250 @@
+  206  ls
+  207  mv chewbacca millenium_falcon
+  208  mv chewbacca.txt millenium_falcon
+  209  princess leia.txt
+  210  mv han_solo.txt millenium_falcon
+  211  millenium_falcon
+  212  ls
+  213  touch chewbacca.txt
+  214  ls
+  215  cd ..
+  216  ls
+  217  mv luke_skywalker.txt obi_wan.txt rebellion
+  218  rm -rf millenium_falcon
+  219  ls
+  220  rebellion
+  221  ls
+  222  mv luke_skywalker.txt obi-wan.txt princess_leia.txt
+  223  mv luke_skywalker.txt obi-wan.txt princess_leia.txt millenium_falcon 
+  224  ls
+  225  mv obi_wan.txt millenium_falcon
+  226  sl
+  227  ls
+  228  millenium_falcon
+  229  ls
+  230  cd ..
+  231  mv millenium_falcon death_star
+  232  ls
+  233  rebellion
+  234  mv millenium_falcon empire
+  235  ls
+  236  empire
+  237  ls
+  238  cd ..
+  239  empire
+  240  ls
+  241  rm princess_leia.txt
+  242  ls
+  243  cd ..
+  244  mv millenium_falcon death_star
+  245  cd
+  246  cd starwars
+  247  star wars
+  248  ls
+  249  desktop[
+  250  desktop/GA/unit1/week1/tuesday
+  251  tuesday-hw
+  252  ls
+  253  star_wars
+  254  ls
+  255  empire
+  256  cd ..
+  257  rebellion
+  258  ls
+  259  rm empire
+  260  mv death_star
+  261  ls
+  262  mv empire/millenium_falcon star_wars/empire/death_star
+  263  ls
+  264  empire
+  265  ls'\nls\nls\n'
+  266  ls
+  267  cd ..
+  268  mv empire millenium_falcon.txt
+  269  ls
+  270  cd ..
+  271  mv rebellion/millenium_falcon.txt empire/death_star
+  272  ls
+  273  empire
+  274  ksl
+  275  ls
+  276  death_star
+  277  ls
+  278  g
+  279  git add .
+  280  cd ..
+  281  ls
+  282  cd ..
+  283  ls
+  284  code .
+  285  ls
+  286  star_wars
+  287  ls
+  288  cd ..
+  289  git clone https://github.com/phicov/u1_hw_star_wars\?organization\=phicov\&organization\=phicov
+  290  git init
+  291  git add .
+  292  git remote add https://github.com/phicov/u1_hw_star_wars\?organization\=phicov\&organization\=phicov
+  293  git remote add origin https://github.com/phicov/u1_hw_star_wars\?organization\=phicov\&organization\=phicov
+  294  ls
+  295  rm ssh-keygen -t rsa -b 4096 -C "philippehcov@gmail.com".pub\n
+  296  rm ssh-keygen -t rsa -b 4096 -C "philippehcov@gmail.com".pub
+  297  rm -rf ssh-keygen -t rsa -b 4096 -C "philippehcov@gmail.com".pub
+  298  rm -rf ssh-keygen -t rsa -b 4096 -C "philippehcov@gmail.com"
+  299  rm -rf cancel
+  300  rm -rf cancel.pub
+  301  desktop
+  302  GA
+  303  unit1
+  304  week1
+  305  tuesday
+  306  tuesday-hw
+  307  cd ..
+  308  ls
+  309  rm tuesday-demo
+  310  rm -rf tuesday-demo
+  311  rm index.html
+  312  tuesday-hw
+  313  ls
+  314  rm -rf ssh-keygen -t rsa -b 4096 -C "philippehcov@gmail.com"
+  315  rm -rf
+  316  rm -rf ssh-keygen -t rsa -b 4096 -C "philippehcov@gmail.com".pub
+  317  ls
+  318  desktop
+  319  GA
+  320  unit1
+  321  week1
+  322  tuesday
+  323  ls
+  324  tuesday-hw
+  325  git cancel
+  326  git --help
+  327  git clone https://github.com/phicov/u1_hw_star_wars\?organization\=phicov\&organization\=phicov
+  328  cd ..
+  329  rm -rf tuesday-hw
+  330  ls
+  331  mkdir hw
+  332  ls'\nls\n'
+  333  ls
+  334  hw
+  335  ls
+  336  git clone https://github.com/phicov/u1_hw_star_wars\?organization\=phicov\&organization\=phicov
+  337  git clone https://github.com/phicov/u1_hw_star_wars
+  338  ls
+  339  cd ..
+  340  rm -rf hw
+  341  ls
+  342  git clone https://github.com/phicov/u1_hw_star_wars
+  343  ls
+  344  u1_hw_star_wars
+  345  code .
+  346  mkdir star_wars
+  347  mkdir star_wars/empire star_wars/rebellion
+  348  touch empire/darth_vader.txt
+  349  ls
+  350  star_wars
+  351  ls
+  352  empire
+  353  touch darth_vader.txt
+  354  echo "...heavy breathing..." >> darth_vader.txt
+  355  touch emperor_palpatine.txt\n
+  356  mkdir death_star
+  357  ls
+  358  mv darth_vader.txt death_star
+  359  ls
+  360  git add .
+  361  git commit -m "Act1 Complete"
+  362  cd ..
+  363  touch rebellion/princess_leia.txt&&echo "Help me, Obi-Wan..." >> princess_leia.txt
+  364  ls
+  365  ls rebellion
+  366  princess_leia.txt
+  367  cat princess_leia.txt
+  368  cd ..
+  369  star_wars
+  370  rebellion
+  371  ls
+  372  cat princess_leia.txt
+  373  echo "Help me, Obi-Wan..." >> princess_leia.txt\n
+  374  cat princess_leia.txt
+  375  cd ..
+  376  ls
+  377  rm princess_leia.txt
+  378  rebellion
+  379  touch obi_wan\n
+  380  ls
+  381  rm obi_wan
+  382  touch obi_wan.txt\n
+  383  touch luke_skywalker.txt\n
+  384  mkdir millenium_falcon
+  385  millenium_falcon
+  386  touch han_solo.txt chewbacca.txt
+  387  ls
+  388  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon\n
+  389  cd ..
+  390  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon\n
+  391  ls
+  392  mil
+  393  millenium_falcon
+  394  ls
+  395  cd ..
+  396  mv star_wars/rebllion/millenium_falcon star_wars/empire/death_star
+  397  ls
+  398  cd ..
+  399  mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star
+  400  mv rebellion/millenium_falcon empire/death_star
+  401  ls
+  402  empire
+  403  ls
+  404  death_star
+  405  ls
+  406  cd ..
+  407  git add .
+  408  git commit
+  409  ls
+  410  desktop
+  411  GA/unit1/week1/tuesday
+  412  ls
+  413  u1_hw_star_wars
+  414  git add .
+  415  git commit -m "Act 2 Complete"
+  416  ls
+  417  star_wars
+  418  empire
+  419  death_star
+  420  ls
+  421  mv millenium_falcon/* 
+  422  cd ..
+  423  mv death_star/millenium_falcon/* death_star
+  424  ls
+  425  death_star
+  426  ks
+  427  ls
+  428  rm obi_wan.txt\n
+  429  mv princess_leia.txt han_solo.txt chewbacca.txt luke_skywalker.txt millenium_falcon\n
+  430  cd ..
+  431  mv empire/millenium_falcon rebellion\n
+  432  mv empiremv empire/death_star/millenium_falcon rebellion\n
+  433  mv empire/death_star/millenium_falcon rebellion\n
+  434  empire
+  435  death_star
+  436  ls
+  437  cd ..
+  438  rebellion
+  439  ls
+  440  cd ..
+  441  mv death_star/darth_vader.txt empire\n
+  442  empire
+  443  mv death_star/darth_vader.txt empire\n
+  444  ls
+  445  mv empire death_vader.txt
+  446  ls
+  447  death_star
+  448  ls
+  449  rm -rf death_star
+  450  cd ..
+  451  ls
+  452  rm -rf death_star
+  453  ls
+  454  git add .
+  455  git commit -m "Act 3 Complete"
